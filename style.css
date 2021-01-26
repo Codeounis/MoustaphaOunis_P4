@@ -385,9 +385,8 @@ a:hover {
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
-        top: 20%;
-        /* right: 20px; */
-        right: 10%;
+        top: 50%;
+        right: 20px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
